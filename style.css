@@ -29,21 +29,21 @@ main {
 
 .step-img1 {
   height: 150px;
-  background-image: url(file:///Users/haruka/Desktop/Task/task1-img/flow01.png);
+  background-image: url(https://user-images.githubusercontent.com/76044650/103834357-829ce880-50c6-11eb-9442-dd81a439534f.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img2 {
   height: 150px;
-  background-image: url(file:///Users/haruka/Desktop/Task/task1-img/flow02.png);
+  background-image: url(https://user-images.githubusercontent.com/76044650/103834381-90eb0480-50c6-11eb-9a20-eb2568a9c224.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img3 {
   height: 150px;
-  background-image: url(file:///Users/haruka/Desktop/Task/task1-img/flow03.png);
+  background-image: url(https://user-images.githubusercontent.com/76044650/103834384-921c3180-50c6-11eb-8c58-ac40ab13134c.png);
   background-position: bottom;
   background-size: cover;
 }
